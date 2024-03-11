@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python
-permalink: /python/
+title: Ny? Start her
+permalink: /start/
 ---
 
