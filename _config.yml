@@ -20,7 +20,7 @@
 
 title: Python i skolen
 description: >- # this means to ignore newlines until "baseurl:"
-  Her håper jeg du finner forslag eller inspirasjon
+  Forslag eller inspirasjon
   til å undervise python programmering i skolen.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
