@@ -19,8 +19,7 @@ permalink: /start/
 | Arrays (Lister) 2 | Viser hvordan man blar igjennom listene |
 
 
-# Addisjon
+# Gjennomført alle stegene ovenfor?
 
-Gjennomført alle oppgavene ovenfor? 
-Super!
+Supert!
 Da kan det være lurt å gå videre til `2-3. trinn`
