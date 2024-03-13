@@ -34,8 +34,8 @@ plugins:
 
 #Custom navigation bar
 header_pages:
-  - index.html
-  - a_start.html
+  - index.markdown
+  - a_start.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
