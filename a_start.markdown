@@ -6,6 +6,8 @@ permalink: /start/
 
 ### Formålet med programmering i skolen
 
+https://github.com/rolighet1/rolighet1.github.io/blob/0ee550c71ce9125ab305a953c9ea8adfb5534fee/_code/start/hello_world.py#L1C1-L2C21
+
 ### Hva kan du finne her?
 
 # Introduksjon til Python
