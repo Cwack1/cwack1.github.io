@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello, World!
-permalink: /start/HelloWorld/
+permalink: /start/hello/
 ---
 
 ```{python}
