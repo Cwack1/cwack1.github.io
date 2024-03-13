@@ -36,6 +36,8 @@ plugins:
 header_pages:
   - index.markdown
   - a_start.markdown
+    - b_smatrinnet.markdown
+  - c_mellomtrinnet.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
