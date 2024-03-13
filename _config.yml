@@ -28,16 +28,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rolighet1
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
+  - jekykk-remote-theme
   - jekyll-feed
 
 #Custom navigation bar
-header_pages:
-  - index.markdown
-  - a_start.markdown
-    - b_smatrinnet.markdown
-  - c_mellomtrinnet.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
