@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: test
 title: Ny? Start her
 permalink: /start/
 ---
